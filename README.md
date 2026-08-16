@@ -79,6 +79,8 @@ HD-Tab is designed around a **Raspberry Pi 3 Model B+**.
 
 The Raspberry Pi 3B+ was already owned and therefore isn't included in the project cost.
 
+CAD Files are designed to support all listed parts. Support for unlisted products may vary.
+
 ### Display
 
 A 7-inch Waveshare touchscreen provides the main interface for the MagicMirror dashboard and allows HD-Tab to be interacted with directly.
@@ -237,6 +239,10 @@ Additional setup may therefore be required when deploying the project to the Ras
 HD-Tab is an ongoing personal project.
 
 The core Jarvis AI and MagicMirror components have been developed and tested during development, with Raspberry Pi deployment being the intended final platform.
+
+Developed Components: Jarvis AI (Voice Recognition, Voice Model (Piper TTS Engine), Text Responses, Music/Podcast via Youtube and UI)
+                      MagicMirror (UI, News Feed( CBC News, Toronto ON), Weather & Forecast(Brampton ON), Custom Calendar(via custom ics.)
+                      Logo & Art (Splash Screen, On Screen Button & Desktop Background)
 
 Features and hardware may change as the project continues to evolve.
 

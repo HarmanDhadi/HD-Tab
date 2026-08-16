@@ -6,9 +6,9 @@ The project is designed to function as a compact, customizable smart display wit
 
 ---
 
-## ✨ Features
+## Features
 
-### 🤖 Jarvis AI
+### Jarvis AI
 
 Jarvis is the voice assistant component of HD-Tab.
 
@@ -30,7 +30,7 @@ Jarvis is written primarily in **Python**.
 
 ---
 
-### 🖥️ MagicMirror²
+###  MagicMirror²
 
 HD-Tab uses a customized MagicMirror² interface as its main smart-display dashboard.
 
@@ -50,7 +50,7 @@ The custom MagicMirror module currently included in the project is:
 
 ---
 
-### 🎨 3D & CAD
+### 3D & CAD
 
 The project also contains custom CAD designs used for the physical HD-Tab build.
 
@@ -62,7 +62,7 @@ These files are located in:
 
 ---
 
-## 🛠️ Hardware
+## Hardware
 
 HD-Tab is designed around a **Raspberry Pi 3 Model B+**.
 
@@ -97,7 +97,7 @@ The system uses a USB power distribution board and a 5V 10A power adapter to pro
 
 ---
 
-## 💻 Software
+## Software
 
 HD-Tab uses a combination of Python, JavaScript, and existing open-source software.
 
@@ -123,7 +123,7 @@ HD-Tab uses a combination of Python, JavaScript, and existing open-source softwa
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 HD-Tab/
@@ -155,7 +155,7 @@ HD-Tab/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Jarvis AI
 
@@ -181,7 +181,7 @@ The project uses MagicMirror² as the foundation while keeping HD-Tab's custom c
 
 ---
 
-## 🔐 API Keys & Security
+## API Keys & Security
 
 **Never commit API keys, passwords, tokens, or other private credentials to this repository.**
 
@@ -199,7 +199,7 @@ Your real API key should never be committed to the repository.
 
 ---
 
-## 📦 Python Dependencies
+## Python Dependencies
 
 Python dependencies used by Jarvis are listed in:
 
@@ -217,7 +217,7 @@ Some dependencies may be platform-specific and may require additional setup when
 
 ---
 
-## 🍓 Raspberry Pi
+## Raspberry Pi
 
 HD-Tab is intended to run on a **Raspberry Pi 3 Model B+**.
 
@@ -234,7 +234,7 @@ Additional setup may therefore be required when deploying the project to the Ras
 
 ---
 
-## ⚠️ Project Status
+##  Project Status
 
 HD-Tab is an ongoing personal project.
 
@@ -248,7 +248,7 @@ Features and hardware may change as the project continues to evolve.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License**.
 
@@ -256,7 +256,7 @@ See [`LICENSE`](LICENSE) for the full license text.
 
 ---
 
-## 👤 Author
+##  Author
 
 ### Harman Dhadi
 
@@ -272,7 +272,7 @@ I'm interested in:
 
 ---
 
-## 🔮 Future Plans
+##  Future Plans
 
 Potential future improvements include:
 

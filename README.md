@@ -1,8 +1,8 @@
 # HD-Tab
 
-**HD-Tab** is a personal smart-display project built around a **Raspberry Pi 3 Model B+**, combining an AI voice assistant, a touchscreen dashboard, media playback, and custom hardware/CAD designs.
+**HD-Tab** is a personal smart-display project similar to a Amazon Show or a Google Nest powered with a Raspberry Pi 3 B+**, featuring am AI Voice & Text Assistant, a touchscreen dashboard, media playback via Youtube, and custom 3D modeled CAD designs!
 
-The project is designed to function as a compact, customizable smart display with **Jarvis AI** and **MagicMirror²** working together.
+The project is intended to be small and lightweight, customizable smart display with **Jarvis AI** and **MagicMirror²** incorporated.
 
 ---
 
@@ -10,18 +10,18 @@ The project is designed to function as a compact, customizable smart display wit
 
 ### Jarvis AI
 
-Jarvis is the voice assistant component of HD-Tab.
+Jarvis is the Voice & Text Assistant of HD-Tab's software/OS.
 
 Features include:
 
-* Gemini-powered AI responses
+* Gemini powered AI responses
 * Voice input
 * Text-to-speech responses
-* Wake-word activation
-* Short microphone listening periods
+* Wake word activation
+* Short microphone listening time periods
 * General questions and conversations
-* YouTube music/video playback
-* Play and pause media
+* YouTube Music playback
+* Play, pause media or skip music
 * Automatically lowers media volume while Jarvis responds
 * Restores the previous volume after responding
 * Designed for Raspberry Pi deployment
@@ -32,7 +32,7 @@ Jarvis is written primarily in **Python**.
 
 ###  MagicMirror²
 
-HD-Tab uses a customized MagicMirror² interface as its main smart-display dashboard.
+HD-Tab uses a custom made MagicMirror² interface as its main smart display dashboard.
 
 The current setup includes:
 
@@ -42,17 +42,18 @@ The current setup includes:
 * Custom background slideshow
 * Custom CSS
 * Custom MagicMirror configuration
-* Touchscreen support
 
 The custom MagicMirror module currently included in the project is:
 
 * `MMM-BackgroundSlideshow`
 
+  (for background slideshow)
+
 ---
 
 ### 3D & CAD
 
-The project also contains custom CAD designs used for the physical HD-Tab build.
+The project also has custom CAD designs used for the physical 3D Printed hardware for the HD-Tab build.
 
 These files are located in:
 
@@ -64,7 +65,7 @@ These files are located in:
 
 ## Hardware
 
-HD-Tab is designed around a **Raspberry Pi 3 Model B+**.
+HD-Tab is designed to work with a **Raspberry Pi 3B+**.
 
 | Component                    | Vendor       |           Price |
 | ---------------------------- | ------------ | --------------: |
@@ -77,9 +78,9 @@ HD-Tab is designed around a **Raspberry Pi 3 Model B+**.
 | LCD Adhesive                 | Amazon       |       $8.99 CAD |
 | **Total**                    |              | **$158.72 CAD** |
 
-The Raspberry Pi 3B+ was already owned and therefore isn't included in the project cost.
+The Raspberry Pi 3B+ was already owned, so it isn't included in the final project cost.
 
-CAD Files are designed to support all listed parts. Support for unlisted products may vary.
+CAD Files are designed to support listed parts. Support for unlisted parts may vary.
 
 ### Display
 
@@ -93,13 +94,13 @@ A USB microphone provides voice input for the Jarvis assistant.
 
 ### Power
 
-The system uses a USB power distribution board and a 5V 10A power adapter to provide power to the connected hardware.
+The hardware uses a USB power distribution board and a 5V 10A power adapter to provide power to the connected hardware.
 
 ---
 
 ## Software
 
-HD-Tab uses a combination of Python, JavaScript, and existing open-source software.
+HD-Tab uses a combination of Python, JavaScript, and open-source software.
 
 ### Jarvis
 

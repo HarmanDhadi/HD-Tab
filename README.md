@@ -288,6 +288,5 @@ Potential future improvements include:
 
 ---
 
-Big Thanks to Jay Tailor for being there and helping me through this project!
 
 **HD-Tab — a personal smart display powered by AI.**

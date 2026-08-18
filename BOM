@@ -1,0 +1,118 @@
+HD-TaB — BILL OF MATERIALS
+
+============================================================
+COMPONENTS
+============================================================
+
+1. 7-Inch Touch Display
+   Description: Waveshare 7-inch touchscreen display
+   Vendor: Waveshare
+   Price: $55.99 CAD
+   Quantity: 1
+   Total: $55.99 CAD
+   Status: Not Purchased
+   Link: https://www.waveshare.com/70h-1024600.htm?sku=22684
+
+
+2. Portable Speaker
+   Description: Portable rechargeable speaker
+   Vendor: Amazon
+   Price: $23.56 CAD
+   Quantity: 1
+   Total: $23.56 CAD
+   Status: Not Purchased
+   Link: https://www.amazon.ca/Portable-Speaker-Rechargeable-External-Computer/dp/B0BW6DFBB9
+
+
+3. USB Microphone
+   Description: Mini USB desktop microphone
+   Vendor: Amazon
+   Price: $7.95 CAD
+   Quantity: 1
+   Total: $7.95 CAD
+   Status: Not Purchased
+   Link: https://www.amazon.ca/Mini-Microphone-Skype-Desktop-Laptop/dp/B076BC2Y3W
+
+
+4. USB Power Distribution Board
+   Description: USB power distribution module
+   Vendor: Amazon
+   Price: $19.84 CAD
+   Quantity: 1
+   Total: $19.84 CAD
+   Status: Not Purchased
+   Link: https://www.amazon.ca/Expansion-Module-Button-Control-Distribution/dp/B0DP8MHZZZ
+
+
+5. 5V 10A Power Adapter
+   Description: AC to 5V DC power adapter
+   Vendor: Amazon
+   Price: $21.99 CAD
+   Quantity: 1
+   Total: $21.99 CAD
+   Status: Not Purchased
+   Link: https://www.amazon.ca/Henxlco-AC100-240V-Converter-Transformer-Light/dp/B0DYHCD21G
+
+
+6. LCD Adhesive
+   Description: Adhesive for securing LCD/touchscreen
+   Vendor: Amazon
+   Price: $8.99 CAD
+   Quantity: 1
+   Total: $8.99 CAD
+   Status: Not Purchased
+   Link: https://www.amazon.ca/Adhesive-Touchscreen-Digitizer-Professional-Tweezers/dp/B00PW0E766
+
+
+7. Micro USB Cable
+   Description: Short Micro USB cable
+   Vendor: Amazon
+   Price: $11.99 CAD
+   Quantity: 1
+   Total: $11.99 CAD
+   Status: Not Purchased
+   Link: https://www.amazon.ca/SUNGUY-3-Pack-Braided-Charging-Galaxy/dp/B0BHNVLW1Z
+
+
+8. Raspberry Pi Heat Sink
+   Description: Raspberry Pi active cooler/heatsink
+   Vendor: Amazon
+   Price: $15.13 CAD
+   Quantity: 1
+   Total: $15.13 CAD
+   Status: Not Purchased
+   Link: https://www.amazon.ca/Raspberry-Pi-Active-Cooler/dp/B0CLXZBR5P
+
+
+9. 3D Printed Enclosure
+   Description: Custom 3D-printed HD-TaB enclosure
+   Vendor: Printing Legion
+   Price: $13.91 CAD
+   Quantity: 1
+   Total: $13.91 CAD
+   Status: Not Purchased
+   Original Price: $10 USD
+
+
+============================================================
+COST SUMMARY
+============================================================
+
+Hardware & Materials: $165.44 CAD
+3D Printing:          $13.91 CAD
+------------------------------------------------------------
+TOTAL:                $179.35 CAD
+
+
+============================================================
+NOTES
+============================================================
+
+- All prices are listed in CAD.
+- Prices may change based on availability, taxes, shipping,
+  or vendor pricing.
+- The 3D-printed enclosure is based on the custom HD-TaB CAD
+  design.
+- The 3D printing cost is approximately $10 USD / $13.91 CAD.
+- Product links are provided for reference.
+- The BOM may change as the design and hardware are finalized.

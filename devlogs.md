@@ -22,8 +22,6 @@ Improved upon the youtube playback feature and worked on fixing some problems wi
 August 5
 Begun development on the media controls features for Jarvis, focusing on play/pause, next/previous track, and ensuring that other media playback would stop when another one began.
 
-August 7
-Improved upon the media controls features and worked on allowing the music volume to decrease temporarily when Jarvis was speaking, then returning to the previous volume once it finished.
 
 August 9
 Began working on the mic controls and wake word features, experimenting with short-term listening rather than having the mic open 24/7 for more practical use with a physical smart display.
